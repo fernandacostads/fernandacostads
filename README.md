@@ -1,5 +1,5 @@
 <h2 align = 'center' > Hi, welcome! I'm Fernanda! 👋👩🏻‍💻 </h1><br>
-<div style="display: flex; align-items: center">
+<div style="display: flex; flex-direction: row; align-items: center">
   <section style="padding: 0 80px"><em>
     <ul>
         <li>🎓 I'm a developer, currently studying Computer Science at UFC.</li>
@@ -7,16 +7,16 @@
         <li>❤️ I love animals and my hobbies are games, animation and reading.</em></li>
     </ul>
   </section>
-  <!-- <img alt="Fernanda-pic" height="120" style="border-radius: 70px; padding: 0 0 10px 0" src="img\Fernanda-pic.png"> -->
+  <img alt="Fernanda-pic" height="120" style="border-radius: 70px; padding: 0 0 10px 0" src="img\Fernanda-profile-pic.png">
 </div><br>
 
 <div align="center">
   <a href="https://github.com/fernandacostads">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=fernandacostads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacostads&layout=compact&langs_count=7&theme=dracula"/>
-</div><br><br>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacostads&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-#### 💻 Skills:
+### 💻 Skills:
 
 <div style="display: inline">
     <img src = 'https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -26,7 +26,7 @@
     
 </div>
 
-#### 💡 Current Studing:
+### 💡 Current Studing:
 
 <div style="display: inline">
     <img src = 'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> 
@@ -36,7 +36,7 @@
     <img src = 'https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'>
 </div>
 
-#### 📚 Studied in College Subjects:
+### 📚 Studied in College Subjects:
 
 <div style="display: inline">
     <img src = 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
@@ -46,10 +46,10 @@
     <img src = 'https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
   
-  #### 📝 Contacts 
+  ### 📝 Contacts 
 
   <div >
-    <img alt="Fernanda-pic" height="70" style="border-radius:50px; padding: 10px 16px 10px 0" src="img\Fernanda-pic.png">
+    <img alt="Fernanda-pic" height="70" style="border-radius:50px; padding: 10px 16px 10px 0" src="img\Fernanda-pc-pic.png">
   </div>
  
 <div style="display: inline"> 
