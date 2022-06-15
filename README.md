@@ -1,14 +1,14 @@
 <h2 align = 'center' > Hi, welcome! I'm Fernanda! 👋👩🏻‍💻 </h1><br>
 <div style="display: flex; justify-content: space-between; align-items: center">
+  <section>
+    <img align="center" alt="Fernanda-pic" height="120" style="border-radius: 70px;" src="img\Fernanda-profile-pic.PNG">
+  </section>
   <section><em>
     <ul>
         <li>🎓 I'm a developer, currently studying Computer Science at UFC.</li>
         <li>🌎 In constant study to learn and contribute in some way to the community.</li>
         <li>❤️ I love animals and my hobbies are games, animation and reading.</em></li>
     </ul>
-  </section>
-  <section>
-    <img  alt="Fernanda-pic" height="130" style="border-radius: 70px; padding: 0 0 10px 0" src="img\Fernanda-profile-pic.PNG">
   </section>
 </div><br>
 
