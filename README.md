@@ -1,8 +1,7 @@
-<h2 align = 'center' > Hi, welcome! I'm Fernanda! 👋👩🏻‍💻 </h1><br>
-<div style="display: flex; justify-content: space-between; align-items: center">
-  <section>
-    <img align="center" alt="Fernanda-pic" height="120" style="border-radius: 70px;" src="img\Fernanda-profile-pic.PNG">
-  </section>
+<h2 align = 'center' > Hi, welcome! I'm Fernanda! 👋👩🏻‍💻 </h2>
+<div align="center">
+  <img align="center" alt="Fernanda-pic" height="100" style="border-radius: 70px;" src="img\Fernanda-profile-pic.PNG"><br>
+</div>
   <section><em>
     <ul>
         <li>🎓 I'm a developer, currently studying Computer Science at UFC.</li>
@@ -10,7 +9,7 @@
         <li>❤️ I love animals and my hobbies are games, animation and reading.</em></li>
     </ul>
   </section>
-</div><br>
+<!-- </div> -->
 
 <div align="center">
   <a href="https://github.com/fernandacostads">
@@ -48,7 +47,7 @@
     <img src = 'https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
   
-  ### 📝 Contacts 
+  ### 📝 Contacts
 
   <div >
     <img alt="Fernanda-pic" height="70" style="border-radius:50px; padding: 10px 16px 10px 0" src="img\Fernanda-pc-pic.PNG">
