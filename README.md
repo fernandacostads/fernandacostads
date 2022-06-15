@@ -1,6 +1,6 @@
 <h2 align = 'center' > Hi, welcome! I'm Fernanda! 👋👩🏻‍💻 </h1><br>
 <div style="display: flex; justify-content: space-between; align-items: center">
-  <section style="padding: 0 80px; width: 50%"><em>
+  <section><em>
     <ul>
         <li>🎓 I'm a developer, currently studying Computer Science at UFC.</li>
         <li>🌎 In constant study to learn and contribute in some way to the community.</li>
