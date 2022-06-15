@@ -7,7 +7,7 @@
         <li>❤️ I love animals and my hobbies are games, animation and reading.</em></li>
     </ul>
   </section>
-  <img alt="Fernanda-pic" height="120" style="border-radius: 70px; padding: 0 0 10px 0" src="img\Fernanda-pic.png">
+  <!-- <img alt="Fernanda-pic" height="120" style="border-radius: 70px; padding: 0 0 10px 0" src="img\Fernanda-pic.png"> -->
 </div><br>
 
 <div align="center">
@@ -24,7 +24,7 @@
     <img src = 'https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
      <img src = 'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
     
-</div><br><br>
+</div>
 
 #### 💡 Current Studing:
 
@@ -34,7 +34,7 @@
     <img src = 'https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
     <img src = 'https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
     <img src = 'https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'>
-</div><br><br><br>
+</div>
 
 #### 📚 Studied in College Subjects:
 
@@ -44,13 +44,12 @@
     <img src = 'https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'> 
     <img src = 'https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white'>
     <img src = 'https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
-</div><br><br>
+</div>
   
   #### 📝 Contacts 
 
-  <div style="display: flex; flex-direction: row; align-items: center" >
-    <img alt="Fernanda-pic" height="70" style="border-radius:100px; padding: 10px 16px 10px 0" src="img\Fernanda-pic.png">
-    <h4><em>Talk to me!</em></h4>
+  <div >
+    <img alt="Fernanda-pic" height="70" style="border-radius:50px; padding: 10px 16px 10px 0" src="img\Fernanda-pic.png">
   </div>
  
 <div style="display: inline"> 
