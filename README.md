@@ -45,10 +45,10 @@
   <img src = 'https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
   
-  ### 📝 Contacts
+  ### 📝 Contacts:
 
 <div >
-  <img alt="Fernanda-pic" height="70" style="border-radius:50px; padding: 10px 16px 10px 0" src="img\Fernanda-pc-pic.PNG">
+  <img alt="Fernanda-pic" height="80" style="border-radius:50px; padding: 10px 16px 10px 0" src="img\Fernanda-pc-pic.PNG">
 </div>
  
 <div style="display: inline"> 
