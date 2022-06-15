@@ -7,7 +7,7 @@
         <li>❤️ I love animals and my hobbies are games, animation and reading.</em></li>
     </ul>
   </section>
-  <img alt="Fernanda-pic" height="120" style="border-radius: 70px; padding: 0 0 10px 0" src="img\Fernanda-profile-pic.PNG">
+  <img align="center" height="100" alt="Fernanda-pic" height="120" style="border-radius: 70px; padding: 0 0 10px 0" src="img\Fernanda-profile-pic.PNG">
 </div><br>
 
 <div align="center">
