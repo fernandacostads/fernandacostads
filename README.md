@@ -1,60 +1,34 @@
-<h2 align = 'center' > Hi, welcome! I'm Fernanda! 👋👩🏻‍💻 </h2>
-<div align="center">
-  <img align="center" alt="Fernanda-pic" height="100" style="border-radius: 70px;" src="img\Fernanda-profile-pic.PNG">
-</div><br>
-  <section><em>
-    <ul>
-        <li>🎓 I'm a developer, currently studying Computer Science at UFC.</li>
-        <li>🌎 In constant study to learn and contribute in some way to the community.</li>
-        <li>❤️ I love animals and my hobbies are games, animation and reading.</em></li>
-    </ul>
-  </section>
+## Hi, welcome to my Github! 👋 <a href="https://www.linkedin.com/in/fernandacostads"><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 
-<div align="center">
-  <a href="https://github.com/fernandacostads">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=fernandacostads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacostads&layout=compact&langs_count=7&theme=dracula"/>
+<div align='center'>
+  <p align='left'>
+   &nbsp;&nbsp;👩🏻‍💻 I’m a software developer focused on Frontend at Solar Coca-Cola.
+  </p>
 </div>
 
-### 💻 Skills:
-
-<div style="display: inline">
-  <img src = 'https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-  <img src = 'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
-</div>
-
-### 💡 Current Studing:
-
-<div style="display: inline">
-  <img src = 'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> 
-  <img src = 'https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-  <img src = 'https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'>
-</div>
-
-### 📚 Studied in College Subjects:
-
-<div style="display: inline">
-  <img src = 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'> 
-  <img src = 'https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
-</div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px"/>
   
-  ### 📝 Contacts:
+### 🧐 More About Me:
+- 🇧🇷 &nbsp; I’m from Brazil
+- 🎓 &nbsp; Graduated in Computer Science at the Federal University of Ceará (UFC).
+- 🌱 &nbsp; I’m currently learning Architectural Patterns and System design;
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fernandacostads?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file)
+- 📚 &nbsp; My hobbies are games, animation and reading.
 
-<div >
-  <img alt="Fernanda-pic" height="80" style="border-radius:50px; padding: 10px 16px 10px 0" src="img\Fernanda-pc-pic.PNG">
-</div>
- 
-<div style="display: inline"> 
-  <a href = "mailto:fernandacostadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernanda.costa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernandacostads/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://fercosta.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a>
-  <a href="https://twitter.com/fernanda_codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
+<br>
+
+### 🔨 My Favorite Languages and Tools:
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+
+<br>
